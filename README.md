@@ -1,1 +1,1 @@
-I developed this website using HTML, PHP core, CSS and MySQL as part of my semester project. It's a overseas delivery system which connect both carrier and buyer and helps them communicate their experience with interaction.
+I developed this website using HTML, PHP core, CSS and MySQL as part of my semester project. It's a overseas delivery system which connect both carrier and buyer and helps them communicate to fulfill their goals.
